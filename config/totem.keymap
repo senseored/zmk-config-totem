@@ -128,8 +128,8 @@
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-        &kp C_PREV  &kp C_PLAY_PAUSE   &kp C_NEXT        &kp LA(F4)  &kp TAB      &kp ESC       &kp PG_UP        &kp UP             &kp PG_DN  &kp LBKT
-        &kp LC(A)   &kp C_VOLUME_DOWN  &kp C_VOL_UP      &kp C_MUTE  &tbmcro      &kp HOME  &kp LEFT   &kp DOWN           &kp RIGHT  &kp SINGLE_QUOTE
+        &kp C_PREV  &kp C_PLAY_PAUSE   &kp C_NEXT        &kp LA(F4)  &kp TAB      &kp HOME  &kp PG_UP        &kp UP             &kp PG_DN  &kp LBKT
+        &kp LC(A)   &kp C_VOLUME_DOWN  &kp C_VOL_UP      &kp C_MUTE  &tbmcro      &kp LEFT  &kp DOWN   &kp UP           &kp RIGHT  &kp SINGLE_QUOTE
 &trans  &kp LC(Z)   &kp LC(X)          &kp LC(C)         &kp LC(V)   &kp LCTRL    &kp END       &kp PRINTSCREEN  &kp LC(S)          &kp KP_NUMLOCK &kp LS(MINUS) &kp LS(N1)
                                        &kp LG(LC(LEFT))  &trans      &trans       &trans        &trans           &kp LG(LC(RIGHT))
                         >;
